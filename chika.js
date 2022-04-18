@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Noob Programer official.
+   * Contact Me on wa.me/919707905478
+   * Follow https://github.com/Temuxuser2021
 */
 
 require('./settings')
