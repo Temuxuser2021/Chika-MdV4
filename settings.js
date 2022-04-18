@@ -1,6 +1,6 @@
 /*
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Create By Noob Programer official.
+   * Contact Me on wa.me/919707905478
    * Follow https://github.com/DikaArdnt
 */
 
@@ -18,32 +18,32 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RiychDwayne'
-global.botname = 'Chika-Md'
-global.footer = 'RiychDwayne'
-global.ig = 'https://instagram.com/riychdwayne'
-global.email = 'riychh.20@gmail.com'
-global.region = 'Indonesia'
+global.owner = ['919707905478','918827844691','000000000000']
+global.premium = ['919707905578']
+global.ownernomer = '919707905478'
+global.ownername = 'noob Programer Raj
+global.botname = 'Nisita-MD'
+global.footer = 'NoobProgramerOfficial'
+global.ig = 'https://instagram.com/noob_programer_official'
+global.email = 'Azzizali579@gmail.com'
+global.region = 'India'
 global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.myweb = 'https://api-riychdwayne.herokuap.com'
 global.packname = 'Chika-Md'
 global.author = 'WhatsApp Bot'
-global.sessionName = 'chika'
+global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
+    admin: 'Group Admin Special Features!',
+    botAdmin: 'Bot Must Be Admin First!',
+    owner: ' BotBot Must Be Admin First ',
+    group: 'Features Used Only For Groups!',
+    private: 'Used Only For Private Chat!',
+    bot: 'Bot Number User Special Features',
     wait: 'Loading...',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
     premium: "Infinity",
